@@ -157,7 +157,7 @@ export const defaultProps = {
       forceFLV: false,
       hlsOptions: {},
       hlsVersion: '0.13.1',
-      dashVersion: '2.9.2',
+      dashVersion: '2.9.3',
       flvVersion: '1.5.0'
     },
     wistia: {
